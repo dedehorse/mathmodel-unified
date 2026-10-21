@@ -1,0 +1,3 @@
+interface:
+  display_name: "数学建模统一工作流"
+  short_description: "从读题建模到论文终审，按任务范围执行"
